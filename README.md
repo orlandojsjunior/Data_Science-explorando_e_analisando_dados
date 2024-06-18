@@ -1,5 +1,5 @@
 # [Formação Data Science](https://cursos.alura.com.br/formacao-data-science)
-Aprenda técnicas de análise, estatística, modelagem e visualização de dados!
+Técnicas de análise, estatística, modelagem e visualização de dados!
 ## [Curso de Data Science: explorando e analisando dados](https://cursos.alura.com.br/course/data-science-explorando-analisando-dados)
 
 
