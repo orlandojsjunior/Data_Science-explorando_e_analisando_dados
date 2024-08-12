@@ -12,7 +12,7 @@ Se eu quisesse trabalhar com Data Science, esta formação me prepararia para en
 
 </div>
 
-# [Curso de Data Science: explorando e analisando dados](https://cursos.alura.com.br/course/data-science-explorando-analisando-dados)
+## [Curso de Data Science: explorando e analisando dados](https://cursos.alura.com.br/course/data-science-explorando-analisando-dados)
 
 ### Principais tópicos do curso:
 
